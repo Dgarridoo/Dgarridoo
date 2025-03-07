@@ -31,5 +31,8 @@ I'd love to connect and share knowledge! 💬
 
 ---
 ### ⚙️ My Github stats:
-![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=Dgarridoo&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dgarrido&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dgarridoo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" width="400"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dgarridoo&layout=compact&langs_count=8&theme=algolia"  width="400"/>
+</p>
