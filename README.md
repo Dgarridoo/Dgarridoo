@@ -3,5 +3,5 @@
 <h2>About me:</h2>
 
 
-<img src="https://img.shields.io/badge/Bash-orange?logo=gnu-bash&logoColor=white" alt="Bash" width="60">
+<img src="https://img.shields.io/badge/Bash-orange?logo=gnu-bash&logoColor=white" alt="Bash" width="70">
 
