@@ -2,7 +2,19 @@
 
 <h2>About me:</h2>
 
-<a href="https://www.linkedin.com/in/daniel-garcía-garrido-a46002355">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+I'm a student of **Higher Vocational Training in Network Systems Administration (ASIR)**.  
+I'm passionate about **web development** 🌐, **technology** 💻, and **hardware** 🖥️.  
+I'm always eager to learn new tools and technologies to improve my skills and create innovative digital solutions.
+
+🔧 **What I enjoy:**
+- Developing interactive and functional websites 🌍
+- Talking about **technology**, **programming** and **hardware**🤖
+- Exploring new technologies and learning something new every day 📚
+
+If you'd like to know more about my professional background or check out my projects, feel free to visit my <a href="https://www.linkedin.com/in/daniel-garcía-garrido-a46002355">Linkedin</a>.
+
+I'd love to connect and share knowledge! 💬
+
 
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
