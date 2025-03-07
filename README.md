@@ -1,4 +1,4 @@
-## Hola soy [Daniel](https://github.com/Dgarridoo)
+##<p align="center"> Hola soy [Daniel](https://github.com/Dgarridoo)👋</p>
 
 <!--
 **Dgarridoo/Dgarridoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
